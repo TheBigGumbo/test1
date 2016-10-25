@@ -1,5 +1,5 @@
 package test1;
-//Hi!
+//Hi! Ho!
 public class MyTest {
 
 	public static void main(String[] args) {
